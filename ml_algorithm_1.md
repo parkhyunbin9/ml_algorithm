@@ -13,7 +13,7 @@
 
   ## 훈련 방법에 따른 구분
 
-  ### [지도 학습(Supervised Learning)](./Supervised_Learning.md)
+  ### [지도 학습(Supervised Learning)](./supervisedLearninig/Supervised_Learning.md)
   **훈련 데이터로부터 하나의 함수를 유추하기 위한 방법.** 훈련데이터에 **Label** 이라는 원하는 답이 포함되어야 한다.훈련 데이터를 학습하여 함수를 유추하고, 훈련 데이터마다 기댓값(input 기준 expect output)을 생성, Label을 통해 정답여부를 판단(feedback)하여 함수를 조정해나간다.
 대표적인 지도학습의 종류로는 유추된 함수 중 연속적인 값을 출력하는 **회귀(Regression)**, 입력 데이터가 어떤 종류의 값인지 표시,구분하는 **분류(Classification)** 가 있다.
 

@@ -11,11 +11,11 @@
 일련의 데이터를 기준으로 학습하여 데이터의 범주를 구분하여 경계를 나누는 학습을 한다. 새로운 데이터가 들어오면 해당 점이 어느 곳에 위치하느냐에 따라 가까운 카테고리 혹은 학습된 알고리즘에 의해 분류 
 
 ### 대표적 알고리즘 
-- [kNN(k-Nearest Neighbors)](./kNN.md)
-- [SVM(Support Vector Machine)]()
+- [KNN(K-Nearest Neighbors)](./KNN.md)
+- [SVM(Support Vector Machine)](./SVM.md)
 - [의사결정 트리(Decision Tree) ]()
 - [랜덤 포레스트(Random Forest)]()
-- [Naive Bayes]()
+- [Naive Bayes](./NaiveBayes.md)
   
 ## 회귀 분석(Regression)
 
