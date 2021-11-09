@@ -1,6 +1,6 @@
 # ML_Algorithm
 
-## 알고리즘 종류 
+## 알고리즘 종류
 
 ![개요](https://miro.medium.com/max/2000/1*8wU0hfUY3UK_D8Y7tbIyFQ.png)
 

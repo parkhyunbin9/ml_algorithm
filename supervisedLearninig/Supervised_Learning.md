@@ -13,13 +13,13 @@
 ### 대표적 알고리즘 
 - [KNN(K-Nearest Neighbors)](./KNN.md)
 - [SVM(Support Vector Machine)](./SVM.md)
-- [의사결정 트리(Decision Tree) ]()
-- [랜덤 포레스트(Random Forest)]()
-- [Naive Bayes](./NaiveBayes.md)
+- [의사결정 트리(Decision Tree) ](./DecisionTree.md)
+- [랜덤 포레스트(Random Forest)](./RandomForest.md)
+
   
 ## 회귀 분석(Regression)
 
 ### 대표적 알고리즘 
-- [선형 회귀 (Linear Regression)]()
-- [로지스틱 회귀 (Logistic Regression)]()
+- [선형 회귀 (Linear Regression)](./LinearRegression.md)
+- [로지스틱 회귀 (Logistic Regression)](./LogisticRegression.md)
 

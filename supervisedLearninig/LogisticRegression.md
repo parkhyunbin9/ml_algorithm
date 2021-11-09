@@ -1,8 +1,8 @@
-# KNN(K-Nearest Neighbor, K-최근접 이웃)
+# Logistic Regression(Logistic 선형 회귀)
 
 ## 1.설명 
 <br> 
-지도 학습 알고리즘 중 하나로, 특정 데이터가 주어지면 주변(이웃) 데이터를 살펴본후 더많은 데이터가 포함되어 있는 범주로 분류하는 방식.주변 가까운 데이터를 이용해 특정 데이터를 유츄하는 방식. <br>
+<br>
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcvzGSE%2Fbtqw569xJ8n%2FDfckialHS6fgKmDZpy4L01%2Fimg.png)
 출처 : towardsdatascience <br> 
@@ -45,5 +45,4 @@ KNN에서 데이터간의 거리를 구해야하는데, 이때 두가지 방법�
 - 단점 : 모델을 생성하지 않아 특징과 클래스간 관계를 이해하는데 제한적이다. 적절한 k선택이 필요하다. 데이터가 많아지면 분류 단계가 느리다. 누락데이터를 위한 추가 처리가 필요하다.
 
 ### 적합한 사례
-- 데이터가 너무 많지 않고, 구분과 분류가 명확한 데이터에 적합한 것.
-- Ex 당도와 아삭함에 따른 채소분류, 암진단.
+- 추세 분석, 역학 조사,재무관리, 경제학 
